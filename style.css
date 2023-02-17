@@ -1,0 +1,24 @@
+#pokemon-list{
+   
+ 
+    margin: 5vh;
+    
+    overflow: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+ul{
+    gap: 1rem;
+}
+
+li{
+    background-color: rgb(155, 194, 247);
+    font-size: larger;
+    font-weight: bolder;
+  font-family: sans-serif;
+    text-align: center;
+    border: 1px solid;
+    height: 25vh;
+    width: 25vh;
+}
